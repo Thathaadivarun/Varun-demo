@@ -1,2 +1,2 @@
 # Varun-demo
-This is my first Gut repository.
+This is my first Git repository.
